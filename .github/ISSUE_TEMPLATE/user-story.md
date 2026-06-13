@@ -1,7 +1,7 @@
 ---
 name: User Story
 about: Normalize User Story structure
-title: ''
+title: 'US'
 labels: user story
 assignees: ''
 
